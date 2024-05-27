@@ -1,0 +1,27 @@
+.sell-on-website-page {
+    padding: 20px;
+  }
+  
+  .sell-on-website-page h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .sell-on-website-page .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .sell-on-website-page .form-label {
+    font-weight: bold;
+  }
+  
+  .sell-on-website-page .form-control {
+    border-radius: 5px;
+  }
+  
+  .sell-on-website-page .btn {
+    display: block;
+    margin: auto;
+  }
+  

@@ -1,0 +1,58 @@
+.account-page {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.account-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.profile-picture img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border: 2px solid #ccc;
+  border-radius: 50%;
+}
+
+.account-info {
+  padding-left: 20px;
+}
+
+.account-details {
+  text-align: left;
+}
+
+.account-details h4 {
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  font-weight: bold;
+}
+
+.form-group input,
+.form-group textarea {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.form-group input[readonly],
+.form-group textarea[readonly] {
+  background-color: #f9f9f9;
+  color: #555;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+  border-color: #007bff;
+}
